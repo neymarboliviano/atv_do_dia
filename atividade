@@ -1,1 +1,56 @@
+Sensores, hardwares e serviços do sistema operacional
 
+1. WhatsApp
+Câmera: tirar fotos e gravar vídeos.
+Microfone: gravar áudios e fazer chamadas.
+GPS: compartilhar localização.
+Contatos: encontrar pessoas da agenda.
+Internet: enviar mensagens e realizar chamadas.
+Notificações: avisar sobre mensagens e ligações.
+Permissões: câmera, microfone, localização, contatos e arquivos.
+
+2. Instagram
+Câmera: tirar fotos e gravar vídeos.
+Microfone: gravar áudios e vídeos.
+GPS: adicionar localização às publicações.
+Galeria: acessar fotos e vídeos.
+Internet: carregar publicações e assistir reels.
+Notificações: avisar sobre curtidas, comentários e mensagens.
+Permissões: câmera, microfone, localização, fotos e vídeos.
+
+3. Roblox
+Tela sensível ao toque: controlar os personagens.
+Acelerômetro e giroscópio: detectar movimentos em jogos compatíveis.
+Microfone: conversar com outros jogadores.
+Processador e GPU: executar jogos e gráficos.
+Internet: jogar online.
+Notificações: receber avisos.
+Permissões: microfone e, em alguns recursos, câmera.
+
+4. Uber
+GPS: identificar a localização e acompanhar viagens.
+Internet: solicitar corridas e atualizar trajetos.
+Câmera: enviar fotos para identificação e suporte.
+Notificações: informar sobre motoristas e viagens.
+Microfone: utilizado em recursos de comunicação por áudio.
+Permissões: localização, câmera e notificações.
+
+5. Nubank
+Câmera: ler QR Codes e fotografar documentos.
+Biometria: confirmar a identidade do usuário.
+Internet: realizar pagamentos e transferências.
+Notificações: avisar sobre compras e movimentações.
+Processador: executar operações e mecanismos de segurança.
+Permissões: câmera, biometria e notificações.
+
+6. Strava / Google Fit
+GPS: registrar trajetos e distâncias.
+Acelerômetro: contar passos e identificar movimentos.
+Giroscópio: detectar movimentos e mudanças de posição.
+Sensor cardíaco: acompanhar batimentos cardíacos em aparelhos compatíveis.
+Bluetooth: conectar relógios e pulseiras inteligentes.
+Internet: sincronizar atividades.
+Permissões: localização, atividade física, Bluetooth e notificações.
+
+Conclusão
+Cada aplicativo utiliza diferentes recursos do celular para funcionar. Câmera, microfone, GPS e biometria são exemplos de recursos importantes. As permissões permitem que os aplicativos acessem esses recursos conforme suas necessidades.
